@@ -1,11 +1,17 @@
 # A02
 Welcome! 
+
 Step by Step Tutorial on GitHub
+
 A. Creating a Github account
+
   1. Click on this link to be directed to the GitHub page https://github.com/ 
   2. Click on the "sign up" button
   3. To create the account provide your email, username, and password
+
+     
 B. Creating a New Repository
+
   1. Click the "+" button on the top right corner
   2. Select the "New Repository" from the options provided
   3. Fill in the required information such as the repository name, description, owner
@@ -17,14 +23,20 @@ B. Creating a New Repository
 
 
 Step by Step Tutorial on Git 
+
 A. Installing and Setting Up Git
+
   1. In order to start using Git, first you need to install Git to your computer if you don't have it already.
   2. Download Git from the website provided: https://git-scm.com/downloads
   3. Set up your username and email address so it can be associated with the commits
+     
 B. Creating a Git Repository
+
   1. Create a new directory for your project
   2. Run the "git init" command so you can initialzie Git repository in the directory
+     
 C. Adding and commiting Files
+
   1. First create some files in your project directory
   2. Then use the "git add" command to add these files to a staging location so we can commit them
   3. Then commit changes 
@@ -32,19 +44,24 @@ C. Adding and commiting Files
 
 
 Step by Step Tutorial on WebStorm
+
 A. Installing WebStorm
+
   1. Download WebStorm from JetBrains website https://www.jetbrains.com/webstorm/ for your system
   2. Then run the installer once it is downloaded.
   3. Then follow all the steps and instructions on the screen to install it
   4. Launch WebStorm once the installation is complete
+     
 B. Arranging WebStorm
   1. After launching WebStorm, customize settings according to your preference
   2. At the end, Click "Start using WebStorm"
+     
 C. Creating a New Project
   1. Once the WebStorm is open and running, click on "Create a New Project" on the welcome screen
   2. Then click on "Empty Project" and click "Next"
   3. Make sure to specify where you want to save and create your project folder
   4. Name your project and then click on "Create"
+     
 D. Creating and Saving Files
   1. To create a new file, right click on your project folder in the Project Explorer and click on "New" and then     
      select the type of file you need to create
@@ -57,6 +74,7 @@ D. Creating and Saving Files
 
 
 Part 2: Glossary
+
 **Branch**- It is a new or a separate version of the main repository.
 
 **Clone**- This is a complete copy/duplicate of a repository which may include all logs and versions of the files. 
