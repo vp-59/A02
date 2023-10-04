@@ -58,16 +58,27 @@ D. Creating and Saving Files
 
 Part 2: Glossary
 **Branch**- It is a new or a separate version of the main repository.
+
 **Clone**- This is a complete copy/duplicate of a repository which may include all logs and versions of the files. 
+
 **Commit**- This is used to save changes to the work/files in the repository.
+
 **Fetch**- This allows you to grab new remote tracking branches as well as the tags without actually merging those changes into your own files.
+
 **GIT**- It is a distributed version control system which allows to track changes in the code.
+
 **Github**- This is a web based platform that supports code hosting, version control, and also remote collaboration which will allow teams or individual members to work on the project remotely regardless of their location. 
+
 **Merge**- Combining all the changes from different branches into a single branch.
+
 **Merge Conflict**- This occurs when the Git is not able to resolve the issues itself between the branches during a merge. 
+
 **Push**-This command assists in uploading the local repository content to a remote repository. 
+
 **Pull**- Downloading content from a remote repository and then using it to update the local repository.
+
 **Remote**- It is a type of repository that is hosted on a server and provides access to all team members. 
+
 **Repository**- This is a storage location for Git projects which contains all the project files along with the revision history of each file.   
 
 
@@ -79,8 +90,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 https://www.w3schools.com/git/git_branch.asp?remote=github
 
-https://www.atlassian.com/git/tutorials/syncing/git-
-pull#:~:text=The%20git%20pull%20command%20is,Git%2Dbased%20collaboration%20work%20flows.
+https://www.atlassian.com/git/tutorials/syncing/git-pull#:~:text=The%20git%20pull%20command%20is,Git%2Dbased%20collaboration%20work%20flows.
 
 https://www.git-tower.com/learn/git/ebook/en/command-line/remote-repositories/introduction#:~:text=Local%20repositories%20reside%20on%20the,or%20on%20a%20local%20network.
 
