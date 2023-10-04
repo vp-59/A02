@@ -102,6 +102,7 @@ Part 2: Glossary
 
 
 References 
+
 https://opensource.com/article/18/1/step-step-guide-git
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
