@@ -2,8 +2,9 @@
 Welcome! 
 Step by Step Tutorial on GitHub
 A. Creating a Github account
-  1. Click on the "sign up" button
-  2. To create the account provide your email, username, and password
+  1. Click on this link to be directed to the GitHub page https://github.com/ 
+  2. Click on the "sign up" button
+  3. To create the account provide your email, username, and password
 B. Creating a New Repository
   1. Click the "+" button on the top right corner
   2. Select the "New Repository" from the options provided
